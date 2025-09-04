@@ -8,11 +8,11 @@ This repo includes projects, presentations, interview questions, and real-time e
 
 Day-1 Linux Introduction
 ------------------------------------------------------------------------------------------------------------
-History of Operating Systems
-Development of UNIX and its impact on Linux
-The open-source movement and Linux's role in it
-Evolution of Linux distributions: Ubuntu, CentOS, Red Hat
-Linux’s importance in modern cloud and server environments
+1. History of Operating Systems
+2. Development of UNIX and its impact on Linux
+3. The open-source movement and Linux's role in it
+4. Evolution of Linux distributions: Ubuntu, CentOS, Red Hat
+5. Linux’s importance in modern cloud and server environments
 
 Day-2 File System Hierarchy
 ------------------------------------------------------------------------------------------------------------
