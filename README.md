@@ -16,82 +16,82 @@ Day-1 Linux Introduction
 
 Day-2 File System Hierarchy
 ------------------------------------------------------------------------------------------------------------
-Structure & organization of files: /bin, /etc, /home
-Role of /root and /var in system administration
-Handling large data with /mnt and /media
-Importance of hierarchical organization for efficient file access
+1. Structure & organization of files: /bin, /etc, /home
+2. Role of /root and /var in system administration
+3. Handling large data with /mnt and /media
+4. Importance of hierarchical organization for efficient file access
 
 Day-3 Virtualization & Installation
 ------------------------------------------------------------------------------------------------------------
-Full virtualization, para-virtualization, and containerization
-Installing Linux on physical and virtual machines
-Overview of hypervisors: KVM, VirtualBox, VMware
-Configuring virtual environments & managing VMs
+1. Full virtualization, para-virtualization, and containerization
+2. Installing Linux on physical and virtual machines
+3. Overview of hypervisors: KVM, VirtualBox, VMware
+4. Configuring virtual environments & managing VMs
 
 Day-4 Managing Files & Directories
 -----------------------------------------------------------------------------------------------------------
-File management commands: cp, mv, rm
-Navigating directories with absolute & relative paths
-Handling hidden files and directories: ls -a, .files
+1. File management commands: cp, mv, rm
+2. Navigating directories with absolute & relative paths
+3. Handling hidden files and directories: ls -a, .files
 
 Day-5 Creating, Viewing & Editing Text Files
 ------------------------------------------------------------------------------------------------------------
-Using editors: nano, vi, gedit
-Command-line tools: cat, less, head, tail
-Writing shell scripts with proper file management
-Searching within text files: grep, awk, sed
+1. Using editors: nano, vi, gedit
+2. Command-line tools: cat, less, head, tail
+3. Writing shell scripts with proper file management
+4. Searching within text files: grep, awk, sed
 
 Day-6 Controlling File Permissions
 ------------------------------------------------------------------------------------------------------------
-Managing permissions: chmod, chown, chgrp
-Permission sets: read, write, execute for users, groups, others
-Best practices for secure permissions in multi-user environments
-Managing special permissions: SUID, SGID, Sticky Bit
+1. Managing permissions: chmod, chown, chgrp
+2. Permission sets: read, write, execute for users, groups, others
+3. Best practices for secure permissions in multi-user environments
+4. Managing special permissions: SUID, SGID, Sticky Bit
 
 Day-7 Archiving & Backup
 ------------------------------------------------------------------------------------------------------------
-Creating compressed archives: tar, gzip, bzip2
-Incremental backups with rsync
-Scheduling backups with cron
-Restoring from archives & recovery strategies
+1. Creating compressed archives: tar, gzip, bzip2
+2. Incremental backups with rsync
+3. Scheduling backups with cron
+4. Restoring from archives & recovery strategies
 
 Day-8 User & Group Management
 ------------------------------------------------------------------------------------------------------------
-Adding, modifying, deleting users: useradd, usermod, userdel
-Managing groups & assigning permissions: groupadd, gpasswd
-Understanding /etc/passwd, /etc/shadow (user authentication)
-Best practices: privileges & sudo access
+1. Adding, modifying, deleting users: useradd, usermod, userdel
+2. Managing groups & assigning permissions: groupadd, gpasswd
+3. Understanding /etc/passwd, /etc/shadow (user authentication)
+4. Best practices: privileges & sudo access
 
 Day-9 Package Management
 ------------------------------------------------------------------------------------------------------------
-Installing & updating packages: apt, yum, dnf
-Configuring repositories for updates
-Managing dependencies & resolving conflicts
-Automating updates & patches
+1. Installing & updating packages: apt, yum, dnf
+2. Configuring repositories for updates
+3. Managing dependencies & resolving conflicts
+4. Automating updates & patches
 
 Day-10 Disk Management
 ------------------------------------------------------------------------------------------------------------
-Partitioning & formatting disks: fdisk, mkfs
-Using LVM for flexible storage management
-Monitoring disk usage & health: df, du, smartctl
+1. Partitioning & formatting disks: fdisk, mkfs
+2. Using LVM for flexible storage management
+3. Monitoring disk usage & health: df, du, smartctl
 
 Day-11 Process & Service Management
 ------------------------------------------------------------------------------------------------------------
-Monitoring processes: ps, top, htop
-Managing services: systemctl, service
-Troubleshooting performance: iostat, vmstat
-Handling service dependencies & recovery options
+1. Monitoring processes: ps, top, htop
+2. Managing services: systemctl, service
+3. Troubleshooting performance: iostat, vmstat
+4. Handling service dependencies & recovery options
 
 Day-12 Linux Networking
 ------------------------------------------------------------------------------------------------------------
-Configuring interfaces: ifconfig, ip
-DNS resolution & /etc/hosts management
-Network diagnostics: ping, traceroute, netstat, ss
-Securing remote access: ssh, scp, rsync
+1. Configuring interfaces: ifconfig, ip
+2. DNS resolution & /etc/hosts management
+3. Network diagnostics: ping, traceroute, netstat, ss
+4. Securing remote access: ssh, scp, rsync
 
 Day-13 Shell Scripting
 ------------------------------------------------------------------------------------------------------------
-Writing scripts: variables, loops, conditionals
-Automating tasks with crontab
-Error handling & logging in scripts
-Debugging scripts with bash -x
+1. Writing scripts: variables, loops, conditionals
+2. Automating tasks with crontab
+3. Error handling & logging in scripts
+4. Debugging scripts with bash -x
